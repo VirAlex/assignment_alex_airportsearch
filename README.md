@@ -48,8 +48,16 @@ Read the doc of Algolia, and tried to grab most of it.
 
 Developpement.
 
-## Steps
+## Design
+
+I try to use flat design with some grid and flex box. I try to stay sober, to make a better interraction with users. Easy to understand, esay to interract.
+
+## Testimony
 
 Problems encountered: There is not enough data on airport to implement as I wanted, that's why if I had to do it again, i'll choose an others datas.
 
 So i needed to make call api, that's what i wanted to do for pictures, so i install axios, i call my api pixabay with city in params but it never worked i lost lot of time. I asked on stackOverFlow but no answer. My porblem is with Axios i can't return a link jpg to bind on the src of picture. So i decided to create a new component Card to store each link in data but i did not know how to do because of ais-hits is not an array or something else i can iterate over.
+
+Other, i found really interesting to interract with Algolia.
+
+I hope this will meet your expectations.
