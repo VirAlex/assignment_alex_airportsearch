@@ -1,25 +1,5 @@
 # Assignment of Algolia-Alexandre Viretti
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ## Project
 
 ### Stack
@@ -61,3 +41,23 @@ So i needed to make call api, that's what i wanted to do for pictures, so i inst
 Other, i found really interesting to interract with Algolia.
 
 I hope this will meet your expectations.
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
