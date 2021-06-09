@@ -205,7 +205,7 @@
       />
     </svg>
     <div class="title">
-      <h1>Airport Search</h1>
+      <h1>Airports Search</h1>
       <p>Please select your Airport</p>
     </div>
   </div>
